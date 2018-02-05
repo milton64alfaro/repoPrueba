@@ -102,12 +102,12 @@ class Results extends React.Component {
     return (
       <div className='row'>
         <Player
-          label='Winner winner'
+          label='Winner WINNER'
           score={winner.score}
           profile={winner.profile}
         />
         <Player
-          label='Loser Loser'
+          label='Loser LOSER '
           score={loser.score}
           profile={loser.profile}
         />
